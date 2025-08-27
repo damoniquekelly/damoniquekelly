@@ -3,7 +3,7 @@
 <h2> 🔒 Cybersecurity Projects:</h2>
 
 - <b>Lab: QRadar SIEM- Firewall & Log Integration</b>
-  - 
+  -  [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
